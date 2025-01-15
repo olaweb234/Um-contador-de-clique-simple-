@@ -1,0 +1,52 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: white;
+  align-items: center;
+  display: flex;
+  margin: 0;
+  padding: 0;
+
+
+}
+
+#container{
+   text-align: center; 
+   margin:auto ;  
+   padding: 10x;
+   background: rgb(255, 255, 255); 
+   box-shadow: 0 10 20 0 rgb(red, green, blue);
+}
+
+h1{
+    color: blue;
+}
+
+
+#contador{
+    font-size: 5rem;
+    margin: 20 20 ;
+    color: red;
+}
+
+
+#soma{
+    font-size: 2rem;
+    padding:2px 30px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(20, 240, 0);
+    cursor: pointer;
+}
+
+#menos{
+    font-size: 2rem;
+    padding: 2px 30px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(255, 0, 0, 0.979);
+    cursor: pointer;
+
+}
+
